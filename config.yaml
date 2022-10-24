@@ -1,0 +1,53 @@
+---
+baseURL: https://idlethumbsband.github.io/
+languageCode: en-us
+title: Idle Thumbs
+theme: meghna-hugo
+paginate: 6
+summaryLength: 15
+
+params:
+  author: Idle Thumbs
+  description: Responsive Multipurpose Parallax Hugo Template
+
+  plugins:
+    css:
+    - link: "plugins/bootstrap/bootstrap.min.css"
+    - link: "plugins/themify-icons/themify-icons.css"
+    - link: "plugins/font-awesome/css/all.css"
+    - link: "plugins/magnific-popup/magnific-popup.css"
+    - link: "plugins/slick/slick.css"
+    - link: "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+
+    js:
+    - link: "plugins/jquery/jquery.min.js"
+    - link: "plugins/bootstrap/bootstrap.min.js"
+    - link: "plugins/slick/slick.min.js"
+    - link: "plugins/shuffle/shuffle.min.js"
+    - link: "plugins/magnific-popup/jquery.magnific-popup.min.js"
+    - link: "plugins/lazy-load/lozad.min.js"
+    - link: "plugins/google-map/map.js"
+
+  social:
+  - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
+    #icon: fab fa-instagram
+    link: https://www.instagram.com/idlethumbs.band/
+  - icon: ti-facebook
+    link: https://www.facebook.com/idlethumbsband/
+  - icon: fab fa-bandcamp
+    link: https://idlethumbsband.bandcamp.com/
+
+Languages:
+  en:
+    languageName: En
+    languageCode: en-us
+    contentDir: content/english
+    weight: 1
+    home: Home
+    copyright: "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+    menu:
+      main:
+      - name: live
+        url: '#live'
+        weight: 1

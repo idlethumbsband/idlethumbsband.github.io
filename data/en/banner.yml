@@ -1,0 +1,10 @@
+banner:
+  enable: true
+  bg_image_webp: 'images/backgrounds/hero-area.webp'
+  bg_image: 'images/backgrounds/hero-area.jpg'
+  title: Idle Thumbs
+  content: '"Atomic Dickhead Demo" release November 17th'
+  button:
+    enable: true
+    label: Live
+    link: '#services'
