@@ -30,13 +30,14 @@ params:
     - link: "plugins/google-map/map.js"
 
   social:
-  - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
-    #icon: fab fa-instagram
+  - icon: fab fa-instagram
     link: https://www.instagram.com/idlethumbs.band/
-  - icon: ti-facebook
+  - icon: fab fa-facebook
     link: https://www.facebook.com/idlethumbsband/
   - icon: fab fa-bandcamp
     link: https://idlethumbsband.bandcamp.com/
+  - icon: fab fa-soundcloud
+    link: https://soundcloud.com/user-577136692
 
 Languages:
   en:
@@ -49,5 +50,5 @@ Languages:
     menu:
       main:
       - name: live
-        url: '#live'
+        url: '#concerts'
         weight: 1
