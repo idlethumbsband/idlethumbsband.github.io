@@ -52,3 +52,9 @@ Languages:
       - name: live
         url: '#concerts'
         weight: 1
+      - name: releases
+        url: '#discography'
+        weight: 2
+      - name: us
+        url: '#bio'
+        weight: 3

@@ -1,9 +1,10 @@
 banner:
   enable: true
-  bg_image_webp: 'images/backgrounds/hero-area.webp'
-  bg_image: 'images/backgrounds/hero-area.jpg'
+  bg_image_webp: 'images/backgrounds/banner.webp'
+  bg_image: 'images/backgrounds/banner.jpg'
   title: Idle Thumbs
-  content: '"Atomic Dickhead Demo" release November 17th'
+  content: |
+    Garage rock from Utrecht
   button:
     enable: true
     label: Live

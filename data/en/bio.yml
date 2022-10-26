@@ -1,0 +1,11 @@
+---
+bio:
+  enable: true
+  image: images/about/about.png
+  image_webp: images/about/about-business-man.webp
+  title: Who are we?
+  content: |
+    Idle Thumbs are a garage rock band based in Utrecht.
+    Our songs are high energy, sabre rattling about topics like nuclear war, gentrification and toasters, of course.
+    We formed in the middle of the pandemic.
+    The band members have been active in the Netherlands with other groups like the ‘Amazing Epics’, ‘Awkward Silence’ & ‘the Mieters’.
