@@ -1,14 +1,11 @@
-#################################### discography ###############################
-discography:
-  enable: true
-  title: Releases
-  discography_item:
-    - name: Shaking Hands (2022)
-      image: images/portfolio/merdafina.jpg
-      image_webp: images/portfolio/portfolio-1.webp
-      categories: ["Demos"]
-      #content: Produït per La Bossa d’Urina i en Lluís Cots.
-      #sp_link: "https://open.spotify.com/album/4XWTjpFBQsUC683wtVu7hI?si=D8f3zXq0SX-RycRsMfVDVg&dl_branch=1"
-      #bc_link: "https://labossadurina.bandcamp.com/album/merda-fina"
-      #deezer_link: "https://www.deezer.com/en/album/71810842"
-      #yt_link: "https://www.youtube.com/watch?v=686-mXW8Bac&list=OLAK5uy_m3YlWEwu9TjkJUjWxfSXXs41k0M4Ob6X8"
+title: Releases
+discography_item:
+  - name: Shaking Hands (2022)
+    image: images/portfolio/merdafina.jpg
+    image_webp: images/portfolio/portfolio-1.webp
+    categories: ["Demos"]
+    #content: Produït per La Bossa d’Urina i en Lluís Cots.
+    #sp_link: "https://open.spotify.com/album/4XWTjpFBQsUC683wtVu7hI?si=D8f3zXq0SX-RycRsMfVDVg&dl_branch=1"
+    #bc_link: "https://labossadurina.bandcamp.com/album/merda-fina"
+    #deezer_link: "https://www.deezer.com/en/album/71810842"
+    #yt_link: "https://www.youtube.com/watch?v=686-mXW8Bac&list=OLAK5uy_m3YlWEwu9TjkJUjWxfSXXs41k0M4Ob6X8"

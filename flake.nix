@@ -16,7 +16,7 @@
   outputs = { self, nixpkgs, flake-utils, }:
     flake-utils.lib.eachDefaultSystem (system:
       let
-        name = "malaikalct";
+        name = "idlethumbs.nl";
         pkgs = import nixpkgs { inherit system; };
         #themeName = ((builtins.fromTOML
         #  (builtins.readFile "${hugo-theme}/theme.toml")).name);
@@ -24,7 +24,7 @@
         #  mkdir -p themes
         #  ln -snf "${hugo-theme}" themes/${themeName}
         #'';
-        buildInputs = [ pkgs.hugo ];
+        buildInputs = with pkgs; [ hugo imagemagick ];
       in {
         packages.${name} = pkgs.stdenv.mkDerivation rec {
           pname = name;

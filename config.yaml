@@ -5,6 +5,20 @@ title: Idle Thumbs
 theme: meghna-hugo
 paginate: 6
 summaryLength: 15
+defaultContentLanguage: en
+contentDir: content
+home: Home
+menu:
+  main:
+  - name: live
+    url: '#concerts'
+    weight: 1
+  - name: releases
+    url: '#discography'
+    weight: 2
+  - name: us
+    url: '#bio'
+    weight: 3
 
 params:
   author: Idle Thumbs
@@ -38,23 +52,3 @@ params:
     link: https://idlethumbsband.bandcamp.com/
   - icon: fab fa-soundcloud
     link: https://soundcloud.com/user-577136692
-
-Languages:
-  en:
-    languageName: En
-    languageCode: en-us
-    contentDir: content/english
-    weight: 1
-    home: Home
-    copyright: "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-    menu:
-      main:
-      - name: live
-        url: '#concerts'
-        weight: 1
-      - name: releases
-        url: '#discography'
-        weight: 2
-      - name: us
-        url: '#bio'
-        weight: 3
