@@ -1,6 +1,4 @@
-############################# call to action ##############################
-concerts:
-  enable: true
-  #bg_image: images/backgrounds/bg-white-wall.jpg
-  #bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: See us live
+enable: true
+#bg_image: images/backgrounds/bg-white-wall.jpg
+#bg_image_webp: images/backgrounds/bg-white-wall.webp
+title: Come see my band
