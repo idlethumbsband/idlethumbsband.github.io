@@ -6,9 +6,8 @@ image: images/releases/shaking-hands.jpg
 image_webp: images/releases/shaking-hands.webp 
 categories: [Demos]
 links:
-  spotify: https://distrokid.com/hyperfollow/idlethumbs/shaking-hands
-  deezer: https://distrokid.com/hyperfollow/idlethumbs/shaking-hands
-  apple: https://distrokid.com/hyperfollow/idlethumbs/shaking-hands
+  spotify: https://open.spotify.com/album/6WPMsFerqwFFOCWr8lmkPn
+  apple: https://music.apple.com/us/album/shaking-hands-single/1652818867?uo=4&app=music&at=1001lry3&ct=dashboard
   soundcloud: https://soundcloud.com/user-577136692/sets/waxed-handlebars-demos-pauls
-  #bandcamp: todo
+  bandcamp: https://idlethumbsband.bandcamp.com/album/shaking-hands
 ---

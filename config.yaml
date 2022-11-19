@@ -2,6 +2,9 @@
 baseURL: https://idlethumbs.nl/
 languageCode: en-us
 title: Idle Thumbs
+#title: Garage rock | Idle Thumbs | Utrecht
+description: |
+  Idle Thumbs are a garage rock band based in Utrecht. Their songs are high energy, sabre rattling about topics like nuclear war, gentrification and toasters, of course. The band formed in the middle of the pandemic. The band members have been active in the Netherlands with other groups like the ‘Amazing Epics’, ‘Awkward Silence’ & ‘the Mieters’.
 theme: meghna-hugo
 paginate: 6
 summaryLength: 15
@@ -22,7 +25,6 @@ menu:
 
 params:
   author: Idle Thumbs
-  description: Responsive Multipurpose Parallax Hugo Template
 
   plugins:
     css:
@@ -48,6 +50,8 @@ params:
     link: https://www.instagram.com/idlethumbs.band/
   - icon: fab fa-facebook
     link: https://www.facebook.com/idlethumbsband/
+  - icon: fab fa-spotify
+    link: https://open.spotify.com/artist/1hxRG1rN7api4HqNlaCnft?si=zI3pLvaBTY6HctTOkp5Lhg
   - icon: fab fa-bandcamp
     link: https://idlethumbsband.bandcamp.com/
   - icon: fab fa-soundcloud
